@@ -6,3 +6,7 @@ git   reset   filename.txt
 
 
 king is comeing
+
+
+
+kill alll
